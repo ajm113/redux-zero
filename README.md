@@ -169,7 +169,7 @@ Here's the full version: [https://codesandbox.io/s/n5orzr5mxj](https://codesandb
 
 ## Actions
 
-There are tree gotchas with Redux Zero's actions:
+There are three gotchas with Redux Zero's actions:
 - Passing arguments
 - Combining actions
 - Binding actions outside your application scope
